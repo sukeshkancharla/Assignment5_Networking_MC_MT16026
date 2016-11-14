@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_fd7770740b1656b7fa164c96cb78e99b749aa6da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dbfa1deaf48f244a83e68a4064d7b1b6bf16225c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b1ae05e6e9982123a6f3c953a58ba0dcff8d3e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_63b1902ccfd7940175e0b00abc566b3e087c66fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1b08107d25616bf4cf3f144d86d3c199162c3c">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e991f503ee4507a990263861f5c82e4c4aca5cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="195069aded8a460d9c848db9032f0ea6201cca19">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e2e640d0628f261b56ace4789cde9f18603ec889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2cca22adbeef1d9f81c8146346e22390b05f7e24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_888829ddf4075cd3c2aa718d410b7641ba4bb1a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_2b9d821709e02522930a39e842c82cbd424ed427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7de5302f9323922e7fef1358dcb42d1d10b14f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\libs\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.1_a42c8572bbf08543d8ce4a186f4e892a3f126386\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_eef6d5f5c4bcb43e8edb92545966b8510219c8e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c189bcb87b6b6d5dd09914250f6ffa9fedc23865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_870b5bdce2e34d99642b623573c08344ee3618cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_73956bbebb3fb0f252fa6d26bb6a87ce47a7de3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9d67c976604ce7e0f249d9f69312672bac49069b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f1e8f7a5bd7ab663729b85c0d66ced8331c1a013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\user\Desktop\09_RecyclerView\NetworkAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0103f83adf5d37a9d29f1aa525ed237be18f660e\classes.dex" />
+    </item>
+
+</items>
